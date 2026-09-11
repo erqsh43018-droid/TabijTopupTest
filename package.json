@@ -1,0 +1,7 @@
+{
+  "name": "tabijtopup",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^13.5.0"
+  }
+}
